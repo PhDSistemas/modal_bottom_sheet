@@ -1,5 +1,5 @@
 import 'package:flutter/cupertino.dart';
-import 'package:flutter/material.dart';
+import 'package:flutter/material.dart' hide ModalBottomSheetRoute;
 
 import '../modal_bottom_sheet.dart' as modal_bottom_sheet;
 
